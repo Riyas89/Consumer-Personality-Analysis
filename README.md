@@ -1,5 +1,5 @@
-**Consumer Personality Analysis
-**
+**Consumer Personality Analysis**
+
 **Overview**
 
 This project aims to analyze consumer personality traits using data analysis and visualization techniques. The insights derived from this analysis can help businesses understand consumer behavior and preferences, ultimately leading to better marketing and product strategies.
